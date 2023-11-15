@@ -1,0 +1,82 @@
+.titl1 {
+  margin-top: 30px;
+  text-align: center;
+  color: #b7ebd9;
+}
+
+.all-form2 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-form2 div {
+  margin: 50px;
+}
+
+.right-form2 div {
+  margin: 50px;
+}
+label {
+  text-align: start;
+}
+.lab21 {
+  margin-right: 20px;
+}
+
+.lab22 {
+  margin-right: 20px;
+}
+
+.lab23 {
+  margin-right: 52px;
+}
+.lab24 {
+  margin-right: 40px;
+}
+.lab25 {
+  margin-right: 27px;
+}
+.lab26 {
+  margin-right: 28px;
+}
+.lab27 {
+  margin-right: 20px;
+}
+.lab28 {
+  margin-right: 76px;
+}
+.lab29 {
+  margin-right: 33px;
+}
+.lab30 {
+  margin-right: 90px;
+}
+.lab31 {
+  margin-right: 66px;
+}
+.lab32 {
+  margin-right: 65px;
+}
+.input2 {
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  border: #b7ebd9 solid 3px;
+}
+.btn-signUp2 {
+  width: 150px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.F2 {
+  width: 70%;
+  border: #b7ebd9 solid 4px;
+  border-radius: 5px;
+  margin-left: 220px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}

@@ -1,0 +1,84 @@
+.full-section-profile1 {
+  width: 800px;
+  height: 560px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  margin-left: 100px;
+  border: #b7ebd9 solid 2px;
+  border-radius: 20px;
+}
+
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 100%;
+  margin-top: -180px;
+}
+
+.profile-fullname {
+  width: 145px;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 100px;
+}
+.profile-fullname h1 {
+  font-size: 18px;
+  color: rgb(32, 134, 138);
+  font-weight: bolder;
+  margin-right: 7px;
+  padding-top: 7px;
+}
+
+.profile-data {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  width: 450px;
+  height: 50px;
+  margin-left: 70px;
+}
+
+.profile-data p {
+  text-align: start;
+  margin-right: 40px;
+}
+
+.sidebar-user {
+  margin-top: 100px;
+  width: 300px;
+  height: initial;
+  background-color: rgb(137, 207, 216);
+}
+
+.sidebar-user h1 {
+  font-size: 28px;
+  color: rgb(34, 34, 31);
+  padding-top: 20px;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+.sidebar-user div {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin: 55px;
+}
+
+.sidebar-user div h4 {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.MUIi1 {
+  color: rgb(255, 255, 255);
+  margin-top: -7px;
+}
+
+a {
+  text-decoration: none;
+}

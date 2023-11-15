@@ -1,0 +1,23 @@
+.top-card {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 15px 15px 15px;
+}
+.middle-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 410px;
+  margin: 15px 15px 15px 15px;
+}
+.middle-card p {
+  padding-top: 10px;
+  margin-right: 30px;
+  text-align: start;
+}
+.bottom-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 20px 15px 20px;
+}

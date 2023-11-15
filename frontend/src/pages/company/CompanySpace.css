@@ -1,0 +1,129 @@
+.titl5 {
+  margin-top: 120px;
+  text-align: center;
+  color: #a1e22f;
+}
+
+.all-form5 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-form5 div {
+  margin: 50px;
+}
+
+.right-form5 div {
+  margin: 50px;
+}
+label {
+  text-align: start;
+}
+.lab51 {
+  margin-right: 30px;
+}
+
+.lab52 {
+  margin-right: 20px;
+}
+
+.lab53 {
+  margin-right: 42px;
+}
+
+.lab54 {
+  margin-right: 40px;
+}
+.lab55 {
+  margin-right: 46px;
+  margin-left: 2px;
+}
+.lab56 {
+  margin-right: 20px;
+  margin-left: 0px;
+}
+.lab57 {
+  margin-right: 20px;
+  margin-left: 0px;
+}
+
+.input5 {
+  width: 250px;
+  height: 30px;
+  border-radius: 5px;
+  border: #a1e22f solid 3px;
+}
+.btn-create-job {
+  width: 150px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.F5 {
+  width: 100%;
+  border: #a1e22f solid 4px;
+  border-radius: 5px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  resize: none; /* Empêche le redimensionnement */
+}
+
+/* Style supplémentaire pour le contour */
+.textarea-container {
+  margin-left: 70px;
+  width: 85%;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.sidebar-company {
+  margin-top: 100px;
+  width: 300px;
+  height: initial;
+  background-color: rgb(137, 207, 216);
+}
+
+.sidebar-company h1 {
+  font-size: 28px;
+  color: rgb(34, 34, 31);
+  padding-top: 20px;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+.sidebar-company div {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin: 55px;
+}
+
+.sidebar-company div h4 {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.MUIi {
+  color: rgb(255, 255, 255);
+  margin-top: -7px;
+}
+
+a {
+  text-decoration: none;
+}
